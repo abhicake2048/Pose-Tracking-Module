@@ -1,0 +1,5 @@
+1. Python
+2. Mediapipe
+3. OpenCV
+4. numpy
+5. Pandas
